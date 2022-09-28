@@ -4,7 +4,7 @@ __pycache__
 /venv
 /tmp
 /model.ckpt
-/models/*.ckpt
+/models/**/*.ckpt
 /GFPGANv1.3.pth
 /gfpgan/weights/*.pth
 /ui-config.json
@@ -20,3 +20,5 @@ __pycache__
 /interrogate
 /user.css
 /.idea
+notification.mp3
+/SwinIR
